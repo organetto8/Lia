@@ -1,0 +1,6 @@
+p {
+    font-weight: 900;
+    border: 2px black;
+    padding: 5;
+    color: color-mix(in srgb, blue 20%, green 30%)
+}
